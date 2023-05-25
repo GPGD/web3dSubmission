@@ -1,0 +1,25 @@
+/* Centering the product selection buttons */
+.btn-group {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.product-button-container {
+    margin: 10px;
+}
+
+/* Centering the 3D model */
+.x3d {
+    display: block;
+    margin: 0 auto;
+    /* Specify a width if the .x3d element does not already have one. */
+    width: 500px;
+}
+
+/* Centering the x3d buttons */
+.product-content-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

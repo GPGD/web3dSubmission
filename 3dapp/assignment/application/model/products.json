@@ -1,0 +1,35 @@
+{
+  "product1Data": {
+    "product_name": "Coca Cola",
+    "img1Overlay": "Coca Cola First Image Overlay",
+    "img1Path": "assets/images/render1.png",
+    "img1AltText": "Coca Cola First Image Alt Text",
+    "modelName": "Coke Can",
+    "modelPath": "assets/3d_models/product1_placeholder.x3d"
+  },
+  "product2Data": {
+    "product_name": "Appletiser",
+    "img1Overlay": "Appletiser First Image Overlay",
+    "img1Path": "assets/images/render1.png",
+    "img1AltText": "Appletiser First Image Alt Text",
+    "img2Overlay": "Appletiser Second Image Overlay",
+    "img2Path": "assets/images/render2.png",
+    "img2AltText": "Appletiser Second Image Alt Text",
+    "modelName": "Appletiser Bottle",
+    "modelPath": "assets/3d_models/product2_placeholder.x3d"
+  },
+  "product3Data": {
+    "product_name": "Product3",
+    "img1Overlay": "Product3 First Image Overlay",
+    "img1Path": "assets/images/render1.png",
+    "img1AltText": "Product3 First Image Alt Text",
+    "img2Overlay": "Product3 Second Image Overlay",
+    "img2Path": "assets/images/render2.png",
+    "img2AltText": "Product3 Second Image Alt Text",
+    "img3Overlay": "Product3 Third Image Overlay",
+    "img3Path": "assets/images/render1.png",
+    "img3AltText": "Product3 Third Image Alt Text",
+    "modelName": "Coke Can",
+    "modelPath": "assets/3d_models/product3_placeholder.x3d"
+  }
+}
